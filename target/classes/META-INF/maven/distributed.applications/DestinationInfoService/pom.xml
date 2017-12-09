@@ -13,7 +13,7 @@
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
-		<docker.image.name>destinationinfoservice</docker.image.name>
+		<docker.image.name>jacobstom/destinationinfoservice</docker.image.name>
         <docker.image.tag>opdracht3</docker.image.tag>
 	</properties>
 
