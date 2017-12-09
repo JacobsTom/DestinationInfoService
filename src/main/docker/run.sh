@@ -2,8 +2,8 @@
 
 echo "********************************************************"
 
-echo "Starting DestinationInfoService Server"
+echo "Starting destinationinfoservice Server"
 
 echo "********************************************************"
 
-java -jar /usr/local/DestinationInfoService/@project.build.finalName@.jar
+java -jar /usr/local/destinationinfoservice/@project.build.finalName@.jar
