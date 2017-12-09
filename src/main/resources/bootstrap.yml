@@ -1,3 +1,3 @@
 spring:
   application:
-    name: Destination-Info-Service
+    name: DestinationInfoService
